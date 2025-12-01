@@ -1,4 +1,4 @@
-order_id,distance_km,delivery_time_min,traffic_level,route_length_km,delivery_mode,weather,order_time,restaurant_zone,customer_zone
+ order_id,distance_km,delivery_time_min,traffic_level,route_length_km,delivery_mode,weather,order_time,restaurant_zone,customer_zone
 1,7.97,63.8,High,9.75,Bicycle,Clear,2025-01-01 15:29,South,North
 2,0.9,7.6,High,1.28,Car,Cloudy,2025-01-03 00:47,West,North
 3,11.12,78.0,Medium,16.65,Bike,Rainy,2025-01-04 17:32,South,Central
