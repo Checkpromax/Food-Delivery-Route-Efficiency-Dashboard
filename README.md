@@ -1,6 +1,6 @@
 # Food Delivery Route Efficiency Dashboard 🚀
 
-Live interactive dashboard → https://lookerstudio.google.com/reporting/c16b87cb-ca3a-46b6-a120-2c7a58ae6fa8 
+Live interactive dashboard → https://lookerstudio.google.com/reporting/c16b87cb-ca3a-46b6-a120-2c7a58ae6fa8
 
 ![Dashboard Hero](screenshots/dashboard-hero.png)
 
