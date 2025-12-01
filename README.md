@@ -2,7 +2,7 @@
 
 Live interactive dashboard → https://lookerstudio.google.com/reporting/YOUR-REPORT-ID  
 
-![Dashboard Hero](screenshots/dashboard-hero.pdf)
+![Dashboard Hero](screenshots/dashboard-hero.png)
 
 ### Key Insights
 - Scooters are **31% more route-efficient** than bicycles
