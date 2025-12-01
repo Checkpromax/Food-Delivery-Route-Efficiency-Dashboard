@@ -25,7 +25,7 @@ Live interactive dashboard → https://lookerstudio.google.com/reporting/YOUR-RE
 | ![factors](screenshots/traffic-weather.png) | ![time](screenshots/hour-of-day.png)                        |
 
 ### How to Run Your Own Version in 60 Seconds
-1. Make a copy of the report → [Click here](https://lookerstudio.google.com/reporting/YOUR-REPORT-ID/copy)  
+1. Make a copy of the report → [Click here](https://lookerstudio.google.com/reporting/c16b87cb-ca3a-46b6-a120-2c7a58ae6fa8)  
 2. Replace the Google Sheet with your own CSV (or keep the sample)  
 3. Done — it auto-updates forever
 
